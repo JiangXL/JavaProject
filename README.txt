@@ -1,5 +1,5 @@
 The SUSTC Library Server
-(c)2015-2016 H.F,Arian,卡布奇诺
+(c)2015-2016 H.F,Arian,卡布其诺
 This is free software,licensed under the follwing:
 "SUSTCLibraryServer"is licensed under the GNU General Public License,see GPL.txt.
 
