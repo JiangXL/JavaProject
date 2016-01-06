@@ -5,7 +5,7 @@ This is free software,licensed under the follwing:
 
 Where to get more info:
 --------------------------------------
-https://github.com/JiangXL/Lib-Serve--2015JavaProject.git
+https://github.com/JiangXL/SUSTCLibraryServer.git
 
 Why we do this java program:
 -------------------------------------
